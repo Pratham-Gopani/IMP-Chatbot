@@ -1,0 +1,68 @@
+{
+  "_comment": "DUMMY credentials for local demo/testing only. Passwords below are the exact plaintext to type into the login form — only their SHA-256 hashes are actually stored/checked (see backend/auth.py). This is NOT production-grade security: no rate limiting, no session expiry, no protection if someone reads this file directly. Change these before any real deployment beyond a local demo.",
+  "_plaintext_reference": {
+    "admin": "admin123",
+    "BA12001": "ba12001@123",
+    "BA12002": "ba12002@123",
+    "BA12003": "ba12003@123",
+    "BA12004": "ba12004@123",
+    "BA12005": "ba12005@123",
+    "BA12006": "ba12006@123",
+    "BA12007": "ba12007@123",
+    "BA12008": "ba12008@123"
+  },
+  "admin": {
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "ba_code": null,
+    "name": "Administrator"
+  },
+  "BA12001": {
+    "password_hash": "06e299a560c7d63ba45e0752a851b9b87cbd7dd5d084fa8051fbdaea8ddc7def",
+    "role": "ba",
+    "ba_code": "BA12001",
+    "name": "Apex Wealth Advisors"
+  },
+  "BA12002": {
+    "password_hash": "f3f67276448f48dc9ad6c7f8925dcc12eb5d40c45259c09bf6059eb6e555511e",
+    "role": "ba",
+    "ba_code": "BA12002",
+    "name": "Prime Capital Services"
+  },
+  "BA12003": {
+    "password_hash": "89d685857a4c8310b560fbdbd66f86bb4dd4ed9ff42a355fba34a44fde752eef",
+    "role": "ba",
+    "ba_code": "BA12003",
+    "name": "Alpha Edge Consultants"
+  },
+  "BA12004": {
+    "password_hash": "647277fafb8cb1ce15fa4423fcd396462c48f46a7906b3e8ee8cc25204fe62be",
+    "role": "ba",
+    "ba_code": "BA12004",
+    "name": "Bluechip Financials"
+  },
+  "BA12005": {
+    "password_hash": "10baebdbbdd72ca342469a5bb83dc2a91afe62ea83d505736f6b95d91b049230",
+    "role": "ba",
+    "ba_code": "BA12005",
+    "name": "Zenith Wealth Management"
+  },
+  "BA12006": {
+    "password_hash": "d8747677b651c2df1ef28b4ead385fcc70249930260849fd2de4d55d618ffb12",
+    "role": "ba",
+    "ba_code": "BA12006",
+    "name": "Crescent Advisory Group"
+  },
+  "BA12007": {
+    "password_hash": "5fa899d723631256b59598832d2222b2630b440b59abe82bf9a3483a419d10fc",
+    "role": "ba",
+    "ba_code": "BA12007",
+    "name": "Synergy Financial Solutions"
+  },
+  "BA12008": {
+    "password_hash": "37408f3333e91216d3d172ae4c6ca1260487bae993b12b0f632cf2918eaa2a75",
+    "role": "ba",
+    "ba_code": "BA12008",
+    "name": "Meridian Wealth Capital"
+  }
+}

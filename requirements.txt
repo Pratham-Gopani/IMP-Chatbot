@@ -1,0 +1,22 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+
+
+# Structured engine
+duckdb==1.2.2
+watchdog==4.0.2
+pandas==2.2.3
+
+# Unstructured / RAG engine
+chromadb==1.0.15
+sentence-transformers==3.3.1
+pypdf==4.3.1
+
+# Universal local LLM runtime
+langchain-ollama==0.2.3
+
+# External API layer
+requests==2.32.3
+
+python-dotenv==1.0.1

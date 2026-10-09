@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+local_warehouse.db
+local_warehouse.db.wal
+chroma_db/
+.git/
+.gitignore
+*.log

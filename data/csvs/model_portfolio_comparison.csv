@@ -1,0 +1,14 @@
+product_name,research_analyst,risk_category,investing_style,rebal_frequency,market_cap,num_stocks,top_sectors,top_stocks,recommended_time_frame,benchmark,brokerage_rate
+MO Signature,MO Research,Moderate,Fundamental,Monthly,Flexi Cap,20,1) Banks; 2) Digital; 3) Auto,1) Shriram Finance; 2) Rubicon; 3) Canara Bank; 4) NAM India; 5) TVS Motors,1 - 3 years,Nifty 200,0.01
+MO Signia,MO Research,Moderate,Fundamental,Monthly,Flexi Cap,25,1) Banks; 2) Digital Platforms; 3) Auto,1) Shriram Finance; 2) Canara Bank; 3) TVS Motor; 4) KEI; 5) Voltas,1 - 3 years,Nifty 200,0.01
+MO Zodiac,MO Research,Moderate,Quant,Quarterly,Large Cap,12,1) Textiles; 2) Defence,1) SBI; 2) L&T; 3) BEL,3 - 5 years,Nifty 50,0.01
+MO Combined Alpha,MO Research,Aggressive,Quant,Monthly,Flexi Cap,50,1) Auto; 2) Banks; 3) IT,1) Escorts; 2) Maharashtra Bank; 3) Coforge; 4) Maruti; 5) Union Bank,3 - 5 years,Nifty 200 Momentum 30,0.002
+MO 20 Quant Momentum,MO Research,Aggressive,Quant,Monthly,Flexi Cap,20,1) Banks; 2) Auto; 3) Metals & Mining,1) JSL; 2) Union Bank; 3) Escorts; 4) Vedanta; 5) Bank of India,3 - 5 years,Nifty 200 Momentum 30,0.002
+MO Technical Focus,MO Research,Aggressive,Technical,Weekly,Flexi Cap,8-12,Dynamic,Dynamic,6 - 24 months,Nifty 500,0.002
+TM Prime,Teji Mandi,Moderate,Fundamental,Monthly,Flexi Cap,16,1) Finance; 2) Banks; 3) Capital Goods,1) Bank of Baroda; 2) BHEL; 3) NTPC; 4) Aadhar Housing; 5) Lloyds Metal,3 - 5 years,Nifty 200,0.01
+RS Alpha Bluechip,Renaissance,Aggressive,Fundamental,Need Basis,Flexi Cap,20-25,1) Banks; 2) IT; 3) Digital Platforms,1) HDFC Bank; 2) Paytm; 3) Tech Mahindra; 4) ICICI Bank; 5) Godrej Consumer,3 - 5 years,Nifty 200,0.01
+APEX - Active NS Idustry Champ,Narnolia,Conservative,Fundamental,Need Basis,Large Cap,12-18,1) Banks; 2) Auto,1) L&T; 2) SBI; 3) ICICI Bank,3 - 5 years,Nifty 100,0.01
+ASPIRE - Active NS Mid and Small Cap,Narnolia,Aggressive,Fundamental,Need Basis,Flexi Cap,20-30,1) FMCG; 2) Finance; 3) IT,1) Max Financial; 2) Marico; 3) Zydus Wellness; 4) REC; 5) Federal Bank,5+ years,Nifty MidSmallcap 400,0.01
+AN AlphaNext,Alphaniti,Aggressive,Fundamental,Need Basis,Flexi Cap,20-25,1) Banks; 2) Auto; 3) Metals & Mining,1) Kotak Mahindra Bank; 2) Lloyds Metals; 3) Gold ETF; 4) M&M; 5) Indian Hotels,3 - 5 years,Nifty 500,0.01
+AN Alpha Pulse,Alphaniti,Aggressive,Quant,Monthly,Flexi Cap,20,1) Banks; 2) Auto; 3) Industrials,1) Bharat Forge; 2) Ashok Leyland; 3) MRPL; 4) Karur Vysya Bank; 5) JB Chemical,3 - 5 years,Nifty LargeMidcap 250,0.002
+VS Bluechip Edge,Value Stocks,Moderate,Quantamental,Quarterly,Flexi Cap,20-25,1) Pharma; 2) Finance; 3) Auto,1) Netweb; 2) Laurus Labs; 3) Polycab; 4) Thangamayil; 5) Karur Vysya Bank,3 - 5 years,Nifty Total Market,0.01
